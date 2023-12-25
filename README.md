@@ -4,6 +4,7 @@ tags:
 model-index:
 - name: tdk_word_data_all
   results: []
+license: mit
 ---
 
 <!-- This model card has been generated automatically according to the information Keras had access to. You should
